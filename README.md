@@ -16,6 +16,14 @@ This system is intended for institutions such as schools, NGOs, and SMEs that ne
 *   **API Key Management:** Authenticated users can generate and manage their own API keys to interact with the service programmatically.
 *   **Usage Metrics:** Tracks token usage for both user sessions and API keys.
 
+## Benefits
+
+*   **Intelligent Document Search and Q&A:** Quickly find information within your organization's documents by asking natural language questions, acting as a smart internal knowledge base.
+*   **AI-Powered Customer Support:** Enhance customer service by providing an AI chatbot that answers user queries based on product documentation and FAQs.
+*   **Personal Knowledge Assistant:** Manage and query your personal library of notes, articles, and research for quick information retrieval and idea generation.
+*   **Research and Analysis Tool:** Efficiently extract key findings, identify trends, and summarize dense information from large volumes of text data.
+*   **Developer-Friendly API:** Integrate the system's document processing and Q&A capabilities into custom applications.
+
 ## System Architecture
 
 The application follows a simple, robust architecture:
